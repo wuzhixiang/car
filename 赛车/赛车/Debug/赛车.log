@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/6/9 19:31:56。
+     1>项目“D:\我的文档\Documents\Visual Studio 2012\Projects\赛车\赛车\赛车.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\我的文档\Documents\Visual Studio 2012\Projects\赛车\Debug\赛车.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\我的文档\Documents\Visual Studio 2012\Projects\赛车\Debug\赛车.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\我的文档\Documents\Visual Studio 2012\Projects\赛车\Debug\赛车.lib" /MACHINE:X86 Debug\Resource.res
+         Debug\main.obj
+         "Debug\主程序.obj"
+         "Debug\开始.obj"
+         "Debug\玩家系统.obj"
+         LINK : 没有找到 D:\我的文档\Documents\Visual Studio 2012\Projects\赛车\Debug\赛车.exe 或上一个增量链接没有生成它；正在执行完全链接
+         赛车.vcxproj -> D:\我的文档\Documents\Visual Studio 2012\Projects\赛车\Debug\赛车.exe
+     1>已完成生成项目“D:\我的文档\Documents\Visual Studio 2012\Projects\赛车\赛车\赛车.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.99
